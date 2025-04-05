@@ -1,0 +1,22 @@
+{
+  "discord": {
+    "token": "DISCORD_TOKEN_BURAYA",
+    "clientId": "", 
+    "prefix": "!"
+  },
+  "website": {
+    "url": "https://merlin-bot.com",
+    "port": 5000,
+    "sessionSecret": "merlin-bot-secret-key-change-this"
+  },
+  "meta": {
+    "version": "1.0.0",
+    "supportServer": "https://discord.gg/sunuculinki"
+  },
+  "sounds": {
+    "welcome": "https://cdn.freesound.org/previews/521/521641_4921277-lq.mp3"
+  },
+  "database": {
+    "type": "memory"
+  }
+}
